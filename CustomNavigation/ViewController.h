@@ -7,9 +7,17 @@
 //
 
 #import <UIKit/UIKit.h>
-
-@interface ViewController : UIViewController
-
+typedef enum cellAnimation
+{
+    firstAnimation,
+    secondAnimation,
+    thirdAnimation,
+    fourthAnimation
+}selectedCellAnimation;
+@interface ViewController : UIViewController<UITableViewDataSource, UITableViewDelegate>
+@property (weak, nonatomic) IBOutlet UITableView *myTableView;
+@property (assign) NSInteger selectedAnimationIndex;
+- (IBAction)AnimationButtonSelected:(id)sender;
 
 @end
 

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2CCE54A0-5C87-4834-9E1B-2527D187B738</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CustomNavigation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>31492F17D683F759A731C341F96758F951B27A82</key>
+		<string>https://github.com/Gagan5278/CustomNavigation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CustomNavigation.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>31492F17D683F759A731C341F96758F951B27A82</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Gagan5278/CustomNavigation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>31492F17D683F759A731C341F96758F951B27A82</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>31492F17D683F759A731C341F96758F951B27A82</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CustomNavigation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
